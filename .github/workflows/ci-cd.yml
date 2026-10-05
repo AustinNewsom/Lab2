@@ -1,6 +1,6 @@
 name: Simple CI/CD Workflow
 
-onn:
+on:
   push:
     branches:
       - main  # Run this workflow whenever code is pushed to the "main" branch
